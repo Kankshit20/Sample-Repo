@@ -1,4 +1,4 @@
 # Sample-Repo
 Creating a sample repository
 
-@Author -> Kankshit Adhaulia
+@Author -> Mr.Kankshit Adhaulia
